@@ -4,7 +4,7 @@
 
 ![FloraSeven Logo](Documentation/images/logo.png)
 
-**A sophisticated, scalable IoT ecosystem for precision monitoring and automated care of plants in controlled environments**
+**A scalable IoT ecosystem for precision monitoring and automated care of plants in controlled environments**
 
 *Combining AI-powered visual diagnostics with multi-modal sensor data for near-human plant health understanding*
 
@@ -21,7 +21,7 @@
 
 ## 📋 Overview
 
-FloraSeven is a sophisticated, scalable Internet of Things (IoT) ecosystem designed for precision monitoring and automated care of high-value and sensitive plants in controlled environments such as greenhouses. The system leverages a modular architecture comprising wireless, battery-powered sensor nodes and a central intelligent hub. It integrates multi-modal data sensing (soil, water, and atmospheric parameters) with AI-powered visual diagnostics to provide a holistic and actionable assessment of plant health.
+FloraSeven is a scalable Internet of Things (IoT) ecosystem designed for precision monitoring and automated care of high-value and sensitive plants in controlled environments such as greenhouses. The system leverages a modular architecture comprising wireless, battery-powered sensor nodes and a central intelligent hub. It integrates multi-modal data sensing (soil, water, and atmospheric parameters) with AI-powered visual diagnostics to provide a holistic and actionable assessment of plant health.
 
 A cross-platform mobile application, connected via a cloud-ready backend, facilitates real-time remote monitoring, configuration, and control, demonstrating a complete, end-to-end solution for modern smart agriculture and precision horticulture.
 
