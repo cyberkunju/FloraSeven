@@ -1,0 +1,73 @@
++---------------+                  +-------------------+
+|               |                  |                   |
+|    ESP32      |                  |  Moisture Sensor  |
+|               |                  |                   |
++---+-----------+                  +---+---------------+
+    |                                  |
+    | GPIO34 <-------------------------> AO (Analog Output)
+    |                                  |
+    | 3.3V <--------------------------> VCC
+    |                                  |
+    | GND <---------------------------> GND
+    |                                  |
+    |                              +---+---------------+
+    |                              |                   |
+    | GPIO26 <---------------------> IN (Signal)       |
+    |                              |                   |
+    | 5V <-------------------------> VCC               |
+    |                              |                   |
+    | GND <------------------------> GND               |
+    |                              |                   |
+    |                              |   Relay Module    |
+    |                              |                   |
+    |                              +---+---------------+
+    |                                  |
+    |                                  | COM
+    |                                  |
+    |                                  | NO <----------+
+    |                                  |               |
+    |                              +---+---------------+
+    |                              |                   |
+    |                              |   Water Pump      |
+    |                              |                   |
+    |                              +---+---------------+
+    |                                  |
+    |                                  | Red Wire <----+
+    |                                  |
+    | 5V <---------------------------->+
+    |                                  |
+    | GND <---------------------------> Black Wire
+    |
++---+-----------+
+|               |
+|  Power Supply |
+|  5V / 2A      |
+|               |
++---------------+
+
+Wiring Notes:
+
+1. ESP32 to Moisture Sensor
+   - ESP32 GPIO34 -> Moisture Sensor AO (Analog Output)
+   - ESP32 3.3V -> Moisture Sensor VCC
+   - ESP32 GND -> Moisture Sensor GND
+
+2. ESP32 to Relay Module
+   - ESP32 GPIO26 -> Relay Module IN (Signal)
+   - ESP32 5V -> Relay Module VCC
+   - ESP32 GND -> Relay Module GND
+
+3. Relay Module to Water Pump
+   - Relay Module COM -> Not connected
+   - Relay Module NO -> Water Pump Red Wire
+   - ESP32 5V -> Water Pump Red Wire (when relay is open)
+   - ESP32 GND -> Water Pump Black Wire
+
+4. Power Supply
+   - 5V/2A power adapter connected to ESP32
+   - Provides power for ESP32, relay, and water pump
+
+Optional Components (not shown):
+   - DHT22 Temperature/Humidity Sensor
+   - OLED Display
+   - Status LEDs

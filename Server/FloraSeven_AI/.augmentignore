@@ -1,0 +1,48 @@
+# Ignore large binary files and datasets to improve indexing performance
+data/raw/
+data/processed/
+sample_images/
+models/*.h5
+models/*.keras
+models/*.pb
+models/*.tflite
+logs/
+venv/
+
+# Image files
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.tif
+*.tiff
+*.bmp
+
+# Archive files
+*.zip
+*.tar
+*.gz
+
+# Jupyter notebooks (often contain large outputs)
+*.ipynb
+.ipynb_checkpoints/
+
+# Temporary files
+tmp/
+temp/
+.temp/
+
+# Log files
+*.log
+*.log.*
+
+# Large JSON files that might be generated
+prediction_results.json
+pipeline_status.json
+evaluation_results.json
+
+# Keep essential code files for indexing
+!src/*.py
+!README.md
+!requirements.txt
+!modelplan.md

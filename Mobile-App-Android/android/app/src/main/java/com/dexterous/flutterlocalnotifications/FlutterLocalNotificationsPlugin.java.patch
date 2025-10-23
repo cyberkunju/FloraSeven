@@ -1,0 +1,11 @@
+--- FlutterLocalNotificationsPlugin.java.orig
++++ FlutterLocalNotificationsPlugin.java
+@@ -1018,7 +1018,7 @@
+       }
+ 
+       if (bigPictureStyleInformation.hideExpandedLargeIcon) {
+-        bigPictureStyle.bigLargeIcon(null);
++        bigPictureStyle.bigLargeIcon((android.graphics.Bitmap) null);
+       } else {
+         if (bigPictureStyleInformation.largeIcon != null) {
+           bigPictureStyle.bigLargeIcon(

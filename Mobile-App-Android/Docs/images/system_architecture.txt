@@ -1,0 +1,57 @@
++---------------------+       WiFi/mDNS       +---------------------+
+|                     |<------------------->|                     |
+|   Mobile App        |                     |   ESP32 Hardware   |
+|   (Flutter)         |       HTTP API      |   or Demo Server   |
+|                     |<------------------->|                     |
++---------------------+                     +---------------------+
+                                                      |
+                                                      | GPIO
+                                                      v
+                                            +---------------------+
+                                            |                     |
+                                            |   Sensors &         |
+                                            |   Actuators         |
+                                            |                     |
+                                            +---------------------+
+                                                      |
+                                                      v
+                                            +---------------------+
+                                            |                     |
+                                            |   Plant             |
+                                            |                     |
+                                            +---------------------+
+
+System Components:
+
+1. Mobile App (Flutter)
+   - User interface
+   - Plant management
+   - Status monitoring
+   - Control interface
+
+2. ESP32 Hardware / Demo Server
+   - API endpoints
+   - Business logic
+   - Sensor reading
+   - Actuator control
+   - Auto-watering logic
+
+3. Sensors & Actuators
+   - Moisture sensor
+   - Water pump
+   - Relay
+   - Optional: temperature, light sensors
+
+Data Flow:
+- Mobile App discovers server via mDNS
+- App requests plant status via HTTP API
+- App sends control commands via HTTP API
+- ESP32/Server reads sensor data
+- ESP32/Server controls water pump
+- ESP32/Server implements auto-watering logic
+
+Communication:
+- Local WiFi network
+- RESTful HTTP API
+- JSON data format
+- mDNS for service discovery

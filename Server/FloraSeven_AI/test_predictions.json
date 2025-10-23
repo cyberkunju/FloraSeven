@@ -1,0 +1,682 @@
+{
+    "houseplant_healthy_healthy_000.jpg": {
+        "health_label": "wilting",
+        "health_score": 99,
+        "confidence": 0.9999986886978149,
+        "raw_predictions": {
+            "healthy": 2.1301453656530356e-11,
+            "wilting": 0.9999986886978149,
+            "discolored": 1.3636187077281647e-06
+        }
+    },
+    "houseplant_healthy_healthy_009.jpg": {
+        "health_label": "wilting",
+        "health_score": 99,
+        "confidence": 0.9934849143028259,
+        "raw_predictions": {
+            "healthy": 5.832040983477782e-07,
+            "wilting": 0.9934849143028259,
+            "discolored": 0.006514552980661392
+        }
+    },
+    "houseplant_healthy_healthy_011.jpg": {
+        "health_label": "wilting",
+        "health_score": 99,
+        "confidence": 0.9999904632568359,
+        "raw_predictions": {
+            "healthy": 3.4130327453141263e-09,
+            "wilting": 0.9999904632568359,
+            "discolored": 9.559266800351907e-06
+        }
+    },
+    "houseplant_healthy_healthy_015.jpg": {
+        "health_label": "wilting",
+        "health_score": 97,
+        "confidence": 0.9772281050682068,
+        "raw_predictions": {
+            "healthy": 1.23554571018758e-07,
+            "wilting": 0.9772281050682068,
+            "discolored": 0.022771773859858513
+        }
+    },
+    "houseplant_healthy_healthy_019.jpg": {
+        "health_label": "wilting",
+        "health_score": 83,
+        "confidence": 0.8340877294540405,
+        "raw_predictions": {
+            "healthy": 8.813560998532921e-05,
+            "wilting": 0.8340877294540405,
+            "discolored": 0.16582413017749786
+        }
+    },
+    "houseplant_healthy_healthy_030.jpg": {
+        "health_label": "uncertain",
+        "health_score": 52,
+        "confidence": 0.527080774307251,
+        "raw_predictions": {
+            "healthy": 8.650925337860826e-06,
+            "wilting": 0.4729105234146118,
+            "discolored": 0.527080774307251
+        }
+    },
+    "houseplant_healthy_healthy_033.jpg": {
+        "health_label": "wilting",
+        "health_score": 98,
+        "confidence": 0.983838677406311,
+        "raw_predictions": {
+            "healthy": 1.0294292707158093e-07,
+            "wilting": 0.983838677406311,
+            "discolored": 0.01616126298904419
+        }
+    },
+    "houseplant_healthy_healthy_039.jpg": {
+        "health_label": "wilting",
+        "health_score": 99,
+        "confidence": 0.9999957084655762,
+        "raw_predictions": {
+            "healthy": 3.5986377072694253e-11,
+            "wilting": 0.9999957084655762,
+            "discolored": 4.2355541154392995e-06
+        }
+    },
+    "houseplant_healthy_healthy_055.jpg": {
+        "health_label": "wilting",
+        "health_score": 98,
+        "confidence": 0.989623486995697,
+        "raw_predictions": {
+            "healthy": 1.1248245357364794e-07,
+            "wilting": 0.989623486995697,
+            "discolored": 0.010376360267400742
+        }
+    },
+    "houseplant_healthy_healthy_056.jpg": {
+        "health_label": "discolored",
+        "health_score": 95,
+        "confidence": 0.9570258259773254,
+        "raw_predictions": {
+            "healthy": 7.756983944062767e-10,
+            "wilting": 0.042974140495061874,
+            "discolored": 0.9570258259773254
+        }
+    },
+    "houseplant_healthy_healthy_070.jpg": {
+        "health_label": "wilting",
+        "health_score": 99,
+        "confidence": 0.9985598921775818,
+        "raw_predictions": {
+            "healthy": 1.3885572514027444e-07,
+            "wilting": 0.9985598921775818,
+            "discolored": 0.0014399421634152532
+        }
+    },
+    "houseplant_healthy_healthy_072.jpg": {
+        "health_label": "wilting",
+        "health_score": 99,
+        "confidence": 0.9999109506607056,
+        "raw_predictions": {
+            "healthy": 1.147363093423337e-09,
+            "wilting": 0.9999109506607056,
+            "discolored": 8.898873056750745e-05
+        }
+    },
+    "houseplant_healthy_healthy_073.jpg": {
+        "health_label": "wilting",
+        "health_score": 98,
+        "confidence": 0.9810717701911926,
+        "raw_predictions": {
+            "healthy": 0.0001334510452579707,
+            "wilting": 0.9810717701911926,
+            "discolored": 0.018794791772961617
+        }
+    },
+    "houseplant_healthy_healthy_075.jpg": {
+        "health_label": "wilting",
+        "health_score": 100,
+        "confidence": 1.0,
+        "raw_predictions": {
+            "healthy": 2.6960277323210538e-15,
+            "wilting": 1.0,
+            "discolored": 5.605138131414833e-09
+        }
+    },
+    "houseplant_healthy_healthy_076.jpg": {
+        "health_label": "wilting",
+        "health_score": 99,
+        "confidence": 0.9999918937683105,
+        "raw_predictions": {
+            "healthy": 8.51830481152227e-11,
+            "wilting": 0.9999918937683105,
+            "discolored": 8.087101377896033e-06
+        }
+    },
+    "houseplant_healthy_healthy_077.jpg": {
+        "health_label": "wilting",
+        "health_score": 94,
+        "confidence": 0.944350004196167,
+        "raw_predictions": {
+            "healthy": 2.6524265194893815e-05,
+            "wilting": 0.944350004196167,
+            "discolored": 0.055623527616262436
+        }
+    },
+    "houseplant_healthy_healthy_078.jpg": {
+        "health_label": "wilting",
+        "health_score": 99,
+        "confidence": 0.9972050786018372,
+        "raw_predictions": {
+            "healthy": 1.3476459059802437e-07,
+            "wilting": 0.9972050786018372,
+            "discolored": 0.0027947097551077604
+        }
+    },
+    "houseplant_healthy_healthy_079.jpg": {
+        "health_label": "wilting",
+        "health_score": 99,
+        "confidence": 0.9904836416244507,
+        "raw_predictions": {
+            "healthy": 9.798888640943915e-06,
+            "wilting": 0.9904836416244507,
+            "discolored": 0.009506557136774063
+        }
+    },
+    "houseplant_healthy_healthy_082.jpg": {
+        "health_label": "wilting",
+        "health_score": 91,
+        "confidence": 0.914063572883606,
+        "raw_predictions": {
+            "healthy": 3.730660864675883e-06,
+            "wilting": 0.914063572883606,
+            "discolored": 0.08593273907899857
+        }
+    },
+    "houseplant_healthy_healthy_090.jpg": {
+        "health_label": "wilting",
+        "health_score": 99,
+        "confidence": 0.9944214224815369,
+        "raw_predictions": {
+            "healthy": 4.6129258635119186e-07,
+            "wilting": 0.9944214224815369,
+            "discolored": 0.005578086711466312
+        }
+    },
+    "houseplant_healthy_healthy_101.jpg": {
+        "health_label": "uncertain",
+        "health_score": 51,
+        "confidence": 0.5153905749320984,
+        "raw_predictions": {
+            "healthy": 9.455901818000712e-06,
+            "wilting": 0.5153905749320984,
+            "discolored": 0.4846000075340271
+        }
+    },
+    "houseplant_healthy_healthy_113.jpg": {
+        "health_label": "discolored",
+        "health_score": 84,
+        "confidence": 0.8425045609474182,
+        "raw_predictions": {
+            "healthy": 3.299568925285712e-05,
+            "wilting": 0.15746240317821503,
+            "discolored": 0.8425045609474182
+        }
+    },
+    "houseplant_healthy_healthy_117.jpg": {
+        "health_label": "discolored",
+        "health_score": 61,
+        "confidence": 0.6154481768608093,
+        "raw_predictions": {
+            "healthy": 8.918039640093411e-08,
+            "wilting": 0.3845517039299011,
+            "discolored": 0.6154481768608093
+        }
+    },
+    "houseplant_healthy_healthy_124.jpg": {
+        "health_label": "wilting",
+        "health_score": 85,
+        "confidence": 0.8540772199630737,
+        "raw_predictions": {
+            "healthy": 1.2790537766704801e-06,
+            "wilting": 0.8540772199630737,
+            "discolored": 0.1459214836359024
+        }
+    },
+    "houseplant_healthy_healthy_132.jpg": {
+        "health_label": "wilting",
+        "health_score": 99,
+        "confidence": 0.9993988275527954,
+        "raw_predictions": {
+            "healthy": 3.5030143408221193e-07,
+            "wilting": 0.9993988275527954,
+            "discolored": 0.0006008534110151231
+        }
+    },
+    "houseplant_healthy_healthy_140.jpg": {
+        "health_label": "wilting",
+        "health_score": 99,
+        "confidence": 0.9995580315589905,
+        "raw_predictions": {
+            "healthy": 1.0704113151405181e-08,
+            "wilting": 0.9995580315589905,
+            "discolored": 0.0004419070028234273
+        }
+    },
+    "houseplant_healthy_healthy_153.jpg": {
+        "health_label": "wilting",
+        "health_score": 99,
+        "confidence": 0.9974842071533203,
+        "raw_predictions": {
+            "healthy": 1.7549734820931917e-06,
+            "wilting": 0.9974842071533203,
+            "discolored": 0.0025140121579170227
+        }
+    },
+    "houseplant_healthy_healthy_165.jpg": {
+        "health_label": "wilting",
+        "health_score": 91,
+        "confidence": 0.9196146726608276,
+        "raw_predictions": {
+            "healthy": 3.232827293686569e-05,
+            "wilting": 0.9196146726608276,
+            "discolored": 0.08035300672054291
+        }
+    },
+    "houseplant_healthy_healthy_180.jpg": {
+        "health_label": "discolored",
+        "health_score": 90,
+        "confidence": 0.9043214917182922,
+        "raw_predictions": {
+            "healthy": 7.179387466749176e-05,
+            "wilting": 0.0956067144870758,
+            "discolored": 0.9043214917182922
+        }
+    },
+    "houseplant_healthy_healthy_196.jpg": {
+        "health_label": "wilting",
+        "health_score": 99,
+        "confidence": 0.9997264742851257,
+        "raw_predictions": {
+            "healthy": 6.894552484482119e-08,
+            "wilting": 0.9997264742851257,
+            "discolored": 0.0002734128211159259
+        }
+    },
+    "houseplant_healthy_healthy_204.jpg": {
+        "health_label": "wilting",
+        "health_score": 68,
+        "confidence": 0.6844981908798218,
+        "raw_predictions": {
+            "healthy": 2.9512293622246943e-06,
+            "wilting": 0.6844981908798218,
+            "discolored": 0.31549885869026184
+        }
+    },
+    "houseplant_healthy_healthy_218.jpg": {
+        "health_label": "discolored",
+        "health_score": 80,
+        "confidence": 0.8032482862472534,
+        "raw_predictions": {
+            "healthy": 0.00011210398224648088,
+            "wilting": 0.19663956761360168,
+            "discolored": 0.8032482862472534
+        }
+    },
+    "houseplant_healthy_healthy_227.jpg": {
+        "health_label": "wilting",
+        "health_score": 99,
+        "confidence": 0.9999951124191284,
+        "raw_predictions": {
+            "healthy": 3.1022137636504965e-10,
+            "wilting": 0.9999951124191284,
+            "discolored": 4.92211984237656e-06
+        }
+    },
+    "houseplant_healthy_healthy_244.jpg": {
+        "health_label": "wilting",
+        "health_score": 99,
+        "confidence": 0.995055079460144,
+        "raw_predictions": {
+            "healthy": 1.1743226391303097e-09,
+            "wilting": 0.995055079460144,
+            "discolored": 0.004944961052387953
+        }
+    },
+    "houseplant_healthy_healthy_245.jpg": {
+        "health_label": "wilting",
+        "health_score": 61,
+        "confidence": 0.6196464896202087,
+        "raw_predictions": {
+            "healthy": 1.6283074728562497e-06,
+            "wilting": 0.6196464896202087,
+            "discolored": 0.38035187125205994
+        }
+    },
+    "houseplant_healthy_healthy_248.jpg": {
+        "health_label": "wilting",
+        "health_score": 98,
+        "confidence": 0.9808329343795776,
+        "raw_predictions": {
+            "healthy": 1.0107224852617946e-06,
+            "wilting": 0.9808329343795776,
+            "discolored": 0.019166020676493645
+        }
+    },
+    "houseplant_healthy_healthy_275.jpg": {
+        "health_label": "wilting",
+        "health_score": 99,
+        "confidence": 0.9937930107116699,
+        "raw_predictions": {
+            "healthy": 2.9738662306044716e-06,
+            "wilting": 0.9937930107116699,
+            "discolored": 0.00620395690202713
+        }
+    },
+    "houseplant_healthy_healthy_278.jpg": {
+        "health_label": "wilting",
+        "health_score": 99,
+        "confidence": 0.9999979734420776,
+        "raw_predictions": {
+            "healthy": 2.1288205920289016e-10,
+            "wilting": 0.9999979734420776,
+            "discolored": 2.018033001149888e-06
+        }
+    },
+    "houseplant_healthy_healthy_280.jpg": {
+        "health_label": "wilting",
+        "health_score": 97,
+        "confidence": 0.9701721668243408,
+        "raw_predictions": {
+            "healthy": 1.939306457643397e-05,
+            "wilting": 0.9701721668243408,
+            "discolored": 0.02980843372642994
+        }
+    },
+    "houseplant_healthy_healthy_284.jpg": {
+        "health_label": "wilting",
+        "health_score": 88,
+        "confidence": 0.884819746017456,
+        "raw_predictions": {
+            "healthy": 5.414781298895832e-07,
+            "wilting": 0.884819746017456,
+            "discolored": 0.11517970263957977
+        }
+    },
+    "houseplant_healthy_healthy_289.jpg": {
+        "health_label": "discolored",
+        "health_score": 99,
+        "confidence": 0.9941521286964417,
+        "raw_predictions": {
+            "healthy": 5.323141394342201e-08,
+            "wilting": 0.0058479150757193565,
+            "discolored": 0.9941521286964417
+        }
+    },
+    "houseplant_healthy_healthy_290.jpg": {
+        "health_label": "wilting",
+        "health_score": 99,
+        "confidence": 0.999620795249939,
+        "raw_predictions": {
+            "healthy": 2.2761840412499623e-08,
+            "wilting": 0.999620795249939,
+            "discolored": 0.00037911214167252183
+        }
+    },
+    "houseplant_healthy_healthy_298.jpg": {
+        "health_label": "wilting",
+        "health_score": 93,
+        "confidence": 0.9365354776382446,
+        "raw_predictions": {
+            "healthy": 7.65398726798594e-06,
+            "wilting": 0.9365354776382446,
+            "discolored": 0.06345690786838531
+        }
+    },
+    "houseplant_healthy_healthy_299.jpg": {
+        "health_label": "discolored",
+        "health_score": 67,
+        "confidence": 0.6797417998313904,
+        "raw_predictions": {
+            "healthy": 4.0725095118432364e-07,
+            "wilting": 0.3202577531337738,
+            "discolored": 0.6797417998313904
+        }
+    },
+    "houseplant_healthy_healthy_302.jpg": {
+        "health_label": "wilting",
+        "health_score": 99,
+        "confidence": 0.9996871948242188,
+        "raw_predictions": {
+            "healthy": 9.036432935261018e-09,
+            "wilting": 0.9996871948242188,
+            "discolored": 0.0003127971140202135
+        }
+    },
+    "houseplant_healthy_healthy_312.jpg": {
+        "health_label": "discolored",
+        "health_score": 76,
+        "confidence": 0.7667205333709717,
+        "raw_predictions": {
+            "healthy": 3.2274760997097474e-07,
+            "wilting": 0.23327913880348206,
+            "discolored": 0.7667205333709717
+        }
+    },
+    "houseplant_healthy_healthy_317.jpg": {
+        "health_label": "discolored",
+        "health_score": 99,
+        "confidence": 0.992468535900116,
+        "raw_predictions": {
+            "healthy": 1.5851432166869017e-08,
+            "wilting": 0.007531499490141869,
+            "discolored": 0.992468535900116
+        }
+    },
+    "houseplant_healthy_healthy_332.jpg": {
+        "health_label": "wilting",
+        "health_score": 99,
+        "confidence": 0.998648464679718,
+        "raw_predictions": {
+            "healthy": 1.0820357232432798e-07,
+            "wilting": 0.998648464679718,
+            "discolored": 0.0013514927122741938
+        }
+    },
+    "houseplant_healthy_healthy_336.jpg": {
+        "health_label": "discolored",
+        "health_score": 89,
+        "confidence": 0.8978285789489746,
+        "raw_predictions": {
+            "healthy": 1.0902969052040135e-06,
+            "wilting": 0.1021704152226448,
+            "discolored": 0.8978285789489746
+        }
+    },
+    "houseplant_healthy_healthy_338.jpg": {
+        "health_label": "wilting",
+        "health_score": 99,
+        "confidence": 0.9962925314903259,
+        "raw_predictions": {
+            "healthy": 7.913970989648078e-07,
+            "wilting": 0.9962925314903259,
+            "discolored": 0.00370659283362329
+        }
+    },
+    "houseplant_healthy_healthy_340.jpg": {
+        "health_label": "wilting",
+        "health_score": 99,
+        "confidence": 0.9999980926513672,
+        "raw_predictions": {
+            "healthy": 1.2197252756418475e-11,
+            "wilting": 0.9999980926513672,
+            "discolored": 1.9564265585358953e-06
+        }
+    },
+    "houseplant_healthy_healthy_353.jpg": {
+        "health_label": "wilting",
+        "health_score": 99,
+        "confidence": 0.9992061257362366,
+        "raw_predictions": {
+            "healthy": 6.40706829813098e-08,
+            "wilting": 0.9992061257362366,
+            "discolored": 0.0007938637281768024
+        }
+    },
+    "houseplant_healthy_healthy_355.jpg": {
+        "health_label": "wilting",
+        "health_score": 70,
+        "confidence": 0.7078219652175903,
+        "raw_predictions": {
+            "healthy": 3.299223681096919e-05,
+            "wilting": 0.7078219652175903,
+            "discolored": 0.2921450734138489
+        }
+    },
+    "houseplant_healthy_healthy_370.jpg": {
+        "health_label": "wilting",
+        "health_score": 99,
+        "confidence": 0.9988511800765991,
+        "raw_predictions": {
+            "healthy": 5.5194709602801595e-06,
+            "wilting": 0.9988511800765991,
+            "discolored": 0.0011433359468355775
+        }
+    },
+    "houseplant_healthy_healthy_373.jpg": {
+        "health_label": "wilting",
+        "health_score": 97,
+        "confidence": 0.9719270467758179,
+        "raw_predictions": {
+            "healthy": 2.4577980184403714e-07,
+            "wilting": 0.9719270467758179,
+            "discolored": 0.028072692453861237
+        }
+    },
+    "houseplant_healthy_healthy_379.jpg": {
+        "health_label": "wilting",
+        "health_score": 99,
+        "confidence": 0.9972620010375977,
+        "raw_predictions": {
+            "healthy": 1.3543798331738799e-06,
+            "wilting": 0.9972620010375977,
+            "discolored": 0.0027365826535969973
+        }
+    },
+    "houseplant_healthy_healthy_390.jpg": {
+        "health_label": "discolored",
+        "health_score": 92,
+        "confidence": 0.9266644716262817,
+        "raw_predictions": {
+            "healthy": 1.1883627166753286e-06,
+            "wilting": 0.07333424687385559,
+            "discolored": 0.9266644716262817
+        }
+    },
+    "houseplant_healthy_healthy_396.jpg": {
+        "health_label": "wilting",
+        "health_score": 99,
+        "confidence": 0.999998927116394,
+        "raw_predictions": {
+            "healthy": 1.2014554282013812e-11,
+            "wilting": 0.999998927116394,
+            "discolored": 1.106883928514435e-06
+        }
+    },
+    "houseplant_healthy_healthy_398.jpg": {
+        "health_label": "discolored",
+        "health_score": 71,
+        "confidence": 0.718707799911499,
+        "raw_predictions": {
+            "healthy": 1.2724668522423599e-05,
+            "wilting": 0.28127941489219666,
+            "discolored": 0.718707799911499
+        }
+    },
+    "houseplant_healthy_healthy_400.jpg": {
+        "health_label": "wilting",
+        "health_score": 99,
+        "confidence": 0.9999997615814209,
+        "raw_predictions": {
+            "healthy": 6.857032845176969e-13,
+            "wilting": 0.9999997615814209,
+            "discolored": 2.2037704638933064e-07
+        }
+    },
+    "houseplant_healthy_healthy_401.jpg": {
+        "health_label": "wilting",
+        "health_score": 99,
+        "confidence": 0.9998393058776855,
+        "raw_predictions": {
+            "healthy": 1.2673858629241863e-09,
+            "wilting": 0.9998393058776855,
+            "discolored": 0.0001606323494343087
+        }
+    },
+    "houseplant_healthy_healthy_409.jpg": {
+        "health_label": "discolored",
+        "health_score": 93,
+        "confidence": 0.9371644854545593,
+        "raw_predictions": {
+            "healthy": 1.1374234418326523e-05,
+            "wilting": 0.06282409280538559,
+            "discolored": 0.9371644854545593
+        }
+    },
+    "houseplant_healthy_healthy_417.jpg": {
+        "health_label": "wilting",
+        "health_score": 99,
+        "confidence": 0.9998401403427124,
+        "raw_predictions": {
+            "healthy": 1.1331529492508707e-08,
+            "wilting": 0.9998401403427124,
+            "discolored": 0.00015986469225026667
+        }
+    },
+    "houseplant_healthy_healthy_420.jpg": {
+        "health_label": "wilting",
+        "health_score": 91,
+        "confidence": 0.9106062650680542,
+        "raw_predictions": {
+            "healthy": 6.970492449909216e-06,
+            "wilting": 0.9106062650680542,
+            "discolored": 0.0893867239356041
+        }
+    },
+    "houseplant_healthy_healthy_428.jpg": {
+        "health_label": "wilting",
+        "health_score": 99,
+        "confidence": 0.9999923706054688,
+        "raw_predictions": {
+            "healthy": 9.193783512273512e-10,
+            "wilting": 0.9999923706054688,
+            "discolored": 7.577956694149179e-06
+        }
+    },
+    "houseplant_healthy_healthy_439.jpg": {
+        "health_label": "wilting",
+        "health_score": 99,
+        "confidence": 0.9998983144760132,
+        "raw_predictions": {
+            "healthy": 5.1605213435834685e-09,
+            "wilting": 0.9998983144760132,
+            "discolored": 0.00010162275430047885
+        }
+    },
+    "houseplant_healthy_healthy_442.jpg": {
+        "health_label": "wilting",
+        "health_score": 99,
+        "confidence": 0.9996064305305481,
+        "raw_predictions": {
+            "healthy": 7.976425075995053e-10,
+            "wilting": 0.9996064305305481,
+            "discolored": 0.000393638270907104
+        }
+    },
+    "houseplant_healthy_healthy_446.jpg": {
+        "health_label": "wilting",
+        "health_score": 61,
+        "confidence": 0.6153978705406189,
+        "raw_predictions": {
+            "healthy": 7.549156180175487e-07,
+            "wilting": 0.6153978705406189,
+            "discolored": 0.38460129499435425
+        }
+    }
+}
